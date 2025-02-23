@@ -1,4 +1,5 @@
 # DocAssist: AI-Powered Medical Decision Support System
+![image](https://github.com/user-attachments/assets/803e0753-61ad-4a03-a7c6-e63b443f715b)
 
 ## Overview
 
