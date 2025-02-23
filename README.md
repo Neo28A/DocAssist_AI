@@ -109,9 +109,5 @@ Top-performing models were fine-tuned using **Hyperopt** to optimize parameters.
 
 DocAssist provides a data-driven approach to medical decision-making, helping doctors make informed treatment choices with the power of AI.
 
-## Contributors
-
-- **Chetan Kittali**
-
 For further details, refer to the project repository or documentation.
 
