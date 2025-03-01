@@ -10,7 +10,8 @@ DocAssist is an AI-powered medical decision support system designed to assist do
 - Visual representation of test results.
 - Secure and efficient processing.
 
-## UI Snapshots & UI repo link: https://github.com/Neo28A/DocAssist_AI-UI.git
+## UI Snapshots
+UI repo link: https://github.com/Neo28A/DocAssist_AI-UI.git
 ### Main Page
 ![Main page](https://github.com/user-attachments/assets/2c9c1f29-cff0-42d2-8c4e-abb4a4640fe0)
 
