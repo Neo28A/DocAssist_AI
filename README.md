@@ -1,9 +1,24 @@
 # DocAssist: AI-Powered Medical Decision Support System
-![image](https://github.com/user-attachments/assets/e1b52442-4e1c-495e-8e03-87a196c1ae64)
-
 ## Overview
 
 DocAssist is an AI-powered medical decision support system designed to assist doctors in making informed treatment decisions by analyzing patient data, including medical history, symptoms, and lab results. The system leverages machine learning to provide personalized treatment recommendations, reducing variability in medical decision-making and improving patient outcomes.
+
+## Features
+- Upload blood test reports in **PDF** format.
+- AI-powered analysis of blood test parameters.
+- Intuitive and user-friendly interface.
+- Visual representation of test results.
+- Secure and efficient processing.
+
+## UI Snapshots
+### Main Page
+![Main page](https://github.com/user-attachments/assets/2c9c1f29-cff0-42d2-8c4e-abb4a4640fe0)
+
+### Upload PDF Section
+![Upload pdf section](https://github.com/user-attachments/assets/7f2676ce-8104-4316-ab48-2b30ce6fa402)
+
+### Enter Values Section
+![Enter values Section](https://github.com/user-attachments/assets/e0cfe564-5b14-4f53-81c5-c711ca356d03)
 
 
 ## Problem Statement
